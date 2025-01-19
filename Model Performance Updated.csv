@@ -1,0 +1,6 @@
+Model,Average Cost (in Dollars),Average Cost of Input Tokens (in Dollars),Average Cost of Output Tokens (in Dollars),Average Token Count,Average Input Token Count,Average Output Token Count,Question Similarity,Fact Check,Difficulty Level,Subject Matter Relevance,Real-World Application,Creativity,Bias,Scalability and Return on Investment,Cost/1M in,Cost/1K in,Cost/1M out,Cost/1K out
+GPT-4o,0.063,0.01,0.053,9769.33,4480,5289.33,0,1,1,1,77,0.5,0.5,0.9,$2.50,$0.00,$10,$0.01
+GPT-4o mini,0.002,0.001,0.001,9191.33,4480,4711.33,0.5,1,1,1,83,1,0.5,1,$0.15,$0.00,$0.60,$0.00
+GPT 4,0.42,0.13,0.29,9562.33,4536,5026.33,0,1,0.66,1,75,0,0.5,0.68,$30,$0.03,$60,$0.06
+OpenAI o1-preview,2.49,0.06,2.43,44293,3780,40513,0,1,0.66,1,80,0.75,0,0,$15,$0.02,$60,$0.06
+OpenAI o1-mini,0.26,0.01,0.25,24751.67,3780,20971.67,0,0.8,1,1,60,0.85,0,0.82,$3,$0.00,$12,$0.01
